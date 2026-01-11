@@ -8,7 +8,7 @@ import BookingFlow from './components/BookingFlow';
 import PaymentGateway from './components/PaymentGateway';
 import MapWidget from './components/MapWidget';
 import DoctorProfile from './components/DoctorProfile';
-import { getSymptomAdvice, generateDigitalPrescription } from './services/geminiService';
+import { getSymptomAdvice, generateDigitalPrescription } from './services/aiService';
 
 const App: React.FC = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(false);

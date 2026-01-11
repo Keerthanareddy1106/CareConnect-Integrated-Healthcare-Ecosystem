@@ -1,8 +1,5 @@
 {
-  "name": "CareConnect: Integrated Healthcare Ecosystem",
-  "description": "A comprehensive healthcare platform merging real-time hospital discovery, digital prescriptions, lab diagnostics, and an e-pharmacy with express delivery.",
-  "requestFramePermissions": [
-    "geolocation",
-    "camera"
-  ]
+  "name": "CareConnect",
+  "description": "Integrated healthcare platform for hospital discovery, consultation booking, and medicine delivery.",
+  "requestFramePermissions": ["geolocation", "camera"]
 }
