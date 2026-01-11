@@ -1,6 +1,3 @@
-Here is a **professional, clean, and industry-standard README** that still fits a **B.Tech 3rd year project**, but looks strong for **internships, reviews, and GitHub portfolios**.
-
-You can **replace your README.md بالكامل with this**.
 
 ---
 
